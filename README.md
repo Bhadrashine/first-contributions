@@ -162,7 +162,7 @@ git checkout -b your-new-branch-name
 
 ## Make necessary changes and commit those changes
 
-Now open `Contributors.md` file in a text editor, add your name to it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
+Now open `Contributors.md` file in a text editor, add your name into it. Don't add it at the beginning or end of the file. Put it anywhere in between. Now, save the file.
 
 <img align="right" width="450" src="https://firstcontributions.github.io/assets/Readme/git-status.png" alt="git status" />
 
@@ -174,7 +174,7 @@ Add those changes to the branch you just created using the `git add` command:
 git add Contributors.md
 ```
 
-Now commit those changes using the `git commit` command:
+Now you can commit those changes using the `git commit` command:
 
 ```bash
 git commit -m "Add your-name to Contributors list"
